@@ -1,11 +1,13 @@
-#Curriculum Vitae
+# Curriculum Vitae
 # Dzmitry Kalesnikau
 ===================================
 
 
 ## Contact information
 >Tel.: *+375-24-**930-00-16***
+
 >Discord: *sugeb#1175*
+
 >E-Mail: *chem@chem.by*
 
 
@@ -87,17 +89,20 @@ end;
 - Development of the synthesis of fire-resistant oils (2016-2017);
 - Development and manufacture of radiation measuring devices (2016-2018).
 
-I have several working websites, before I started learning in course RS School "JavaScript/Front-end. Stage 0" . For example, this website was written in notepad, 2009: [Chem.by](http://chem.by "Simple html site")
-And this - in Delphi 7, a few years ago: [Chemistry.by](http://chemistry.by "Simple d7 site")
+I have several working websites, before I started learning in course RS School "JavaScript/Front-end. Stage 0".
+
+For example, this website was written in notepad, 2009: [Chem.by](http://chem.by "Simple html site").
+
+And this - in Delphi 7, a few years ago: [Chemistry.by](http://chemistry.by "Simple d7 site").
 
 
 ## Education, training and certificates 
-- Chemistry & Biology Teacher University Diploma (2009)
-- Software Engineering University Retraining Diploma (2012)
-- 4 certificates of honor (state award) for scientific and pedagogical activities in the field of energy saving
-- 2 certificates for active participation in competitions of scientific and technical creativity
-- 5 certificates of advanced training in educational activities, teacher of the 1st category
-- Amateur radio license, 1st class
+- Chemistry & Biology Teacher University Diploma (2009);
+- Software Engineering University Retraining Diploma (2012);
+- 4 certificates of honor (state award) for scientific and pedagogical activities in the field of energy saving;
+- 2 certificates for active participation in competitions of scientific and technical creativity;
+- 5 certificates of advanced training in educational activities, teacher of the 1st category;
+- Amateur radio license, 1st class.
 
 
 ## Languages
