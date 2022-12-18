@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .nav-header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;    
+  }
+  
+  .nav-links {
+    padding: 0 22px;
+    line-height: 48px;
+    transition: 0.4s;    
+  }
+  
+  body {
+    background-color: #c4c4c4;
+    color: #0b111b;
+    font-size: 16px;
+    min-height: 100vh;
+    font-weight: normal;
+    font-family: 'Bookman Old Style', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  ul {
+    display: block;
+    list-style-type: disc;
+    margin: 1em 0 1em 0;
+    padding-left: 42px;
+  }  
+
+  .section-item a {
+    color: #77927b;
+    text-decoration: none;
+    transition: color 0.4s;
+  }
+  
+  .section-item a:hover {
+    text-decoration: underline;
+    }
+  
+  .avatar {
+    width: 214px;
+    border-radius: 25px;
+    box-shadow: 4px 4px 14px rgba(12, 12, 12, 0.3);
+  }
+  
+  .profile {
+    display: flex;
+    margin-bottom: 22px;
+  }
+  
+  .profile-text {
+    margin-left: 38px;
+  }
+  
+  .container {
+    max-width: 754px;
+    margin: auto;
+  }
+
+  .infoblock {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+  }  
+  
+  .aboutme {
+    background-color: #e9dcff;
+  }
+
+  .bookstyle {
+    text-align: justify;
+    text-indent: 20px;
+  }   
+  
+  .skills {
+    background-color: #fee5ff;
+  }
+
+  .skills-ul {
+    list-style-type: square;
+   }  
+  
+  .code {
+    background-color: #ffdede;
+  }
+  
+  .myexp {
+    background-color: #e4ffe4;
+  }
+  
+  .myprojects {
+    background-color: #fff9e5;
+  }
+  
+  .edu {
+    background-color: #e1feff;
+  }
+  
+  .lang {
+    background-color: #ffd8f9;
+  }
+  
+  .list {
+    padding: 0 22px;
+  }
+  
+  .list li {
+    margin-bottom: 11px;
+  }
+  
+  .footer-text {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rss-logo {
+    width: 116px;
+    height: 97px;
+  }
