@@ -14,18 +14,18 @@
   }
   
   .nav-links {
-    padding: 0 20px;
-    line-height: 50px;
+    padding: 0 22px;
+    line-height: 48px;
     transition: 0.4s;    
   }
   
   body {
     background-color: #c4c4c4;
-    color: #0f141e;
+    color: #0b111b;
     font-size: 16px;
     min-height: 100vh;
     font-weight: normal;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Bookman Old Style', serif;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -35,7 +35,7 @@
     display: block;
     list-style-type: disc;
     margin: 1em 0 1em 0;
-    padding-left: 40px;
+    padding-left: 42px;
   }  
 
   .section-item a {
@@ -56,15 +56,15 @@
   
   .profile {
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
   
   .profile-text {
-    margin-left: 40px;
+    margin-left: 38px;
   }
   
   .container {
-    max-width: 750px;
+    max-width: 754px;
     margin: auto;
   }
 
@@ -112,11 +112,11 @@
   }
   
   .list {
-    padding: 0 20px;
+    padding: 0 22px;
   }
   
   .list li {
-    margin-bottom: 10px;
+    margin-bottom: 11px;
   }
   
   .footer-text {
