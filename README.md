@@ -1,2 +1,3 @@
-https://dkalesnikau.github.io/rsschool-cv/cv
-https://dkalesnikau.github.io/rsschool-cv/
+Text-CV https://dkalesnikau.github.io/rsschool-cv/cv
+
+HTML-CV https://dkalesnikau.github.io/rsschool-cv/
